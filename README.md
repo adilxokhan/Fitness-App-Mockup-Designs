@@ -21,7 +21,7 @@ This app is designed to help users track their health goals, log workouts, and v
     - User Profile
     - Progress Charts
 ## 🛠 Tools Used
-Figma is mainly used for designs of containers , however icons and other images were sources from google anbd pinterest.
+Figma is mainly used for designs of containers , however icons and other images were sourcedfrom google and pinterest.
 
 ## 📝 License
 This project is open-source and available for feedback or inspiration.
