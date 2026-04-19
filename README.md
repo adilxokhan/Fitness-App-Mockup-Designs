@@ -8,6 +8,7 @@ Welcome to my fitness app design project! This repository contains the UI/UX moc
 • Lack of iconography
 • Important information not prioritized.
 Based on the identified UI issues, an improved and modernized version of MyFitnessPal was developed. The redesigned interface focuses on simplicity, consistency, and better visibility of important information to enhance user experience and engagement.
+Three main dashboards were deisgned for executives for regular and efficient trackinng of user statuses that will later help in developing strategies.
 
 
 ## 📱 About the Project
